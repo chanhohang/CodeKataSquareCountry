@@ -1,1 +1,5 @@
-C:\dojo\github\CodeKataSquareCountry\dotnet\CodeKataSquareCountry\bin\Debug\CodeKataSquareCountry.exe.config
+C:\dojo\github\CodeKataSquareCountry\dotnet\CodeKataSquareCountry\bin\Debug\CodeKataSquareCountry.dll.config
+C:\dojo\github\CodeKataSquareCountry\dotnet\CodeKataSquareCountry\bin\Debug\CodeKataSquareCountry.dll
+C:\dojo\github\CodeKataSquareCountry\dotnet\CodeKataSquareCountry\bin\Debug\CodeKataSquareCountry.pdb
+C:\dojo\github\CodeKataSquareCountry\dotnet\CodeKataSquareCountry\obj\Debug\CodeKataSquareCountry.dll
+C:\dojo\github\CodeKataSquareCountry\dotnet\CodeKataSquareCountry\obj\Debug\CodeKataSquareCountry.pdb
