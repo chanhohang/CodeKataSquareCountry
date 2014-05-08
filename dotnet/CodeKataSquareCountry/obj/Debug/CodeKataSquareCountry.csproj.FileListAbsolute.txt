@@ -1,0 +1,1 @@
+C:\dojo\github\CodeKataSquareCountry\dotnet\CodeKataSquareCountry\bin\Debug\CodeKataSquareCountry.exe.config
